@@ -47,3 +47,7 @@ In English and Polish, updates itself.
 The panel appears in the top-right corner of the screen, and an icon with little characters appears in the menu bar. Its menu has language, the notch island, discreet mode, launch at login and update checks.
 
 **Requirements:** macOS 14 or later, plus [Claude Code](https://claude.com/claude-code) or Codex in the ChatGPT app.
+
+---
+
+*Inspired by **Agent Huddle**, a really lovely demo by [alextsoi.ai on TikTok](https://www.tiktok.com/@alextsoi.ai) — thanks for the idea! Agent Lobby is an independent take on it, built from scratch and not affiliated with the original.*
